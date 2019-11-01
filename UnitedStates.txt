@@ -1,0 +1,463 @@
+Station 4 letter ID: K01R	Station Name: Claiborne Range, Airways Facilities Sector 	State: LA	 Latitude: 31-08N Longitude: 092-34W
+Station 4 letter ID: K1K5	Station Name: Elkhart / Elkhart-Morton County Airport	State: KS	 Latitude: 37-00N Longitude: 101-53W
+Station 4 letter ID: K1V4	Station Name: ST JOHNSBURY FAIRBANKS	State: VT	 Latitude: 44-25N Longitude: 072-01W
+Station 4 letter ID: K2C2	Station Name: White Sands	State: NM	 Latitude: 32-23N Longitude: 106-29W
+Station 4 letter ID: K2DP	Station Name: Dare County Gunnery Range	State: NC	 Latitude: 35-40N Longitude: 075-54W
+Station 4 letter ID: K2PJ	Station Name: Poinsett Range, Sumpter	State: SC	 Latitude: 33-51N Longitude: 080-29W
+Station 4 letter ID: K3RN	Station Name: Graying Air Force Range	State: MI	 Latitude: 44-50N Longitude: 084-33W
+Station 4 letter ID: K44W	Station Name: Diamond Shoals Coast Guard Station	State: NC	 Latitude: 35-09N Longitude: 075-18W
+Station 4 letter ID: K4CB	Station Name: Cuddleback Gunnery Range	State: CA	 Latitude: 35-16N Longitude: 117-26W
+Station 4 letter ID: K4DG	Station Name: Douglas	State: WY	 Latitude: 42-45N Longitude: 105-23W
+Station 4 letter ID: K4MR	Station Name: Melrose Gunnery Range	State: NM	 Latitude: 34-18N Longitude: 103-48W
+Station 4 letter ID: K4SU	Station Name: Superior Valley Gunnery Range	State: CA	 Latitude: 36-20N Longitude: 117-06W
+Station 4 letter ID: K50Q	Station Name: Farallon Island	State: CA	 Latitude: 37-42N Longitude: 123-00W
+Station 4 letter ID: K87Q	Station Name: Point Piedras Blanca	State: CA	 Latitude: 35-39-56N Longitude: 121-17-05W
+Station 4 letter ID: K9B2	Station Name: Newport	State: VT	 Latitude: 44-56N Longitude: 072-12W
+Station 4 letter ID: K9V9	Station Name: CHAMBERLAIN MUNICIPAL AIRPORT	State: SD	 Latitude: 43-46N Longitude: 099-19W
+Station 4 letter ID: KAAF	Station Name: APALACHICOLA MUNICIPAL AIRPORT	State: FL	 Latitude: 29-44N Longitude: 085-01W
+Station 4 letter ID: KABE	Station Name: LEHIGH VALLEY INTERNATIONAL  AIRPORT	State: PA	 Latitude: 40-39N Longitude: 075-27W
+Station 4 letter ID: KABI	Station Name: ABILENE REGIONAL AIRPORT	State: TX	 Latitude: 32-25N Longitude: 099-41W
+Station 4 letter ID: KABQ	Station Name: ALBUQUERQUE INTERNATIONAL  AIRPORT	State: NM	 Latitude: 35-02N Longitude: 106-36W
+Station 4 letter ID: KABR	Station Name: ABERDEEN REGIONAL AIRPORT	State: SD	 Latitude: 45-27N Longitude: 098-25W
+Station 4 letter ID: KABY	Station Name: ALBANY SOUTHWEST GEORGIA	State: GA	 Latitude: 31-32N Longitude: 084-12W
+Station 4 letter ID: KACT	Station Name: WACO REGIONAL AIRPORT	State: TX	 Latitude: 31-36N Longitude: 97-13W
+Station 4 letter ID: KACY	Station Name: ATLANTIC CITY INTERNATIONAL	State: NJ	 Latitude: 39-28N Longitude: 74-35W
+Station 4 letter ID: KADW	Station Name: Camp Springs / Andrews Air Force Base	State: MD	 Latitude: 38-49N Longitude: 076-51W
+Station 4 letter ID: KAEX	Station Name: ALEXANDRIA INTERNATIONAL AIRPORT	State: LA	 Latitude: 31-33N Longitude: 092-56W
+Station 4 letter ID: KAFF	Station Name: Air Force Academy	State: CO	 Latitude: 38-58N Longitude: 104-49W
+Station 4 letter ID: KAGR	Station Name: Avon Park Gunnery Range	State: FL	 Latitude: 27-39N Longitude: 081-20W
+Station 4 letter ID: KAGS	Station Name: AUGUSTA BUSH FIELD	State: GA	 Latitude: 33-22N Longitude: 081-58W
+Station 4 letter ID: KAHN	Station Name: ATHENS BEN EPPS AIRPORT	State: GA	 Latitude: 33-57N Longitude: 083-20W
+Station 4 letter ID: KALB	Station Name: ALBANY INTERNATIONAL AIRPORT	State: NY	 Latitude: 42-45N Longitude: 73-48W
+Station 4 letter ID: KALO	Station Name: WATERLOO MUNICIPAL AIRPORT	State: IA	 Latitude: 42-33N Longitude: 92-24W
+Station 4 letter ID: KALS	Station Name: SAN LUIS VALLEY REGIONAL	State: CO	 Latitude: 37-26N Longitude: 105-52W
+Station 4 letter ID: KAMA	Station Name: AMARILLO INTERNATIONAL  AIRPORT	State: TX	 Latitude: 35-13N Longitude: 101-43W
+Station 4 letter ID: KANJ	Station Name: SAULT STE. MARIE MUNI	State: MI	 Latitude: 46-29N Longitude: 084-21W
+Station 4 letter ID: KAPN	Station Name: ALPENA COUNTY REGIONAL AIRPORT	State: MI	 Latitude: 45-05N Longitude: 083-34W
+Station 4 letter ID: KAQQ	Station Name: Apalachicola, Apalachicola	State: FL	 Latitude: 29-43-37N Longitude: 085-01-29W
+Station 4 letter ID: KAST	Station Name: PORT OF ASTORIA AIRPORT	State: OR	 Latitude: 46-09N Longitude: 123-53W
+Station 4 letter ID: KATL	Station Name: HARTSFIELD-JACKSON ATLANTA	State: GA	 Latitude: 33-39N Longitude: 84-26W
+Station 4 letter ID: KATT	Station Name: CAMP MABRY/AUSTIN CITY ASOS	State: TX	 Latitude: 30-19N Longitude: 097-46W
+Station 4 letter ID: KAVL	Station Name: ASHEVILLE REGIONAL AIRPORT	State: NC	 Latitude: 35-26N Longitude: 82-32W
+Station 4 letter ID: KAVP	Station Name: WILKES-BARRE/SCRANTON INTERNATIONAL 	State: PA	 Latitude: 41-20N Longitude: 75-44W
+Station 4 letter ID: KAVX	Station Name: AVALON CATALINA AIRPORT	State: CA	 Latitude: 33-24N Longitude: 118-25W
+Station 4 letter ID: KAYS	Station Name: Waycross / Ware County, Ga	State: GA	 Latitude: 31-15N Longitude: 082-24W
+Station 4 letter ID: KBDL	Station Name: BRADLEY INTERNATIONAL AIRPORT 	State: CT	 Latitude: 41-56N Longitude: 072-41W
+Station 4 letter ID: KBDR	Station Name: SIKORSKY MEMORIAL AIRPORT	State: CT	 Latitude: 41-10N Longitude: 073-08W
+Station 4 letter ID: KBED	Station Name: BEDFORD HANSCOM FIELD	State: MA	 Latitude: 42-28N Longitude: 071-18W
+Station 4 letter ID: KBFF	Station Name: SCOTTSBLUFF HEILIG FIELD	State: NE	 Latitude: 41-52N Longitude: 103-36W
+Station 4 letter ID: KBFL	Station Name: BAKERSFIELD MEADOWS FIELD	State: CA	 Latitude: 35-26N Longitude: 119-03W
+Station 4 letter ID: KBGM	Station Name: BINGHAMTON REGIONAL AIRPORT	State: NY	 Latitude: 42-12N Longitude: 75-59W
+Station 4 letter ID: KBHM	Station Name: BIRMINGHAM INT'L AIRPORT	State: AL	 Latitude: 33-34N Longitude: 086-45W
+Station 4 letter ID: KBIH	Station Name: BISHOP AIRPORT	State: CA	 Latitude: 37-22N Longitude: 118-22W
+Station 4 letter ID: KBIL	Station Name: LOGAN INTERNATIONAL AIRPORT	State: MT	 Latitude: 45-49N Longitude: 108-33W
+Station 4 letter ID: KBIS	Station Name: BISMARCK MUNICIPAL AIRPORT	State: ND	 Latitude: 46-47N Longitude: 100-45W
+Station 4 letter ID: KBJI	Station Name: Bemidji	State: MN	 Latitude: 47-30N Longitude: 094-56W
+Station 4 letter ID: KBJN	Station Name: Las Vegas, Tonopah Range #74 Nellis AFB	State: NV	 Latitude: 37-37-02 Longitude: 116-15-51W
+Station 4 letter ID: KBKW	Station Name: RALEIGH COUNTY MEM AIRPORT 	State: WV	 Latitude: 37-48N Longitude: 081-07W
+Station 4 letter ID: KBML	Station Name: BERLIN MUNICIPAL AIRPORT	State: NH	 Latitude: 44-35N Longitude: 71-11W
+Station 4 letter ID: KBNA	Station Name: NASHVILLE INTERNATIONAL  AIRPORT	State: TN	 Latitude: 36-07N Longitude: 086-41W
+Station 4 letter ID: KBNO	Station Name: BURNS MUNICIPAL AIRPORT	State: OR	 Latitude: 43-36N Longitude: 118-57W
+Station 4 letter ID: KBOI	Station Name: BOISE AIR TERMINAL	State: ID	 Latitude: 43-34N Longitude: 116-14W
+Station 4 letter ID: KBOS	Station Name: BOSTON LOGAN INTERNATIONAL	State: MA	 Latitude: 42-22N Longitude: 071-01W
+Station 4 letter ID: KBPI	Station Name: BIG PINEY-MARBLETON AIRPORT	State: WY	 Latitude: 42-35N Longitude: 110-06W
+Station 4 letter ID: KBPT	Station Name: SOUTHEAST TEXAS RGNL AIRPORT	State: TX	 Latitude: 29-95N Longitude: 094-08W
+Station 4 letter ID: KBRO	Station Name: BROWNSVILLE/SOUTH PADRE IS	State: TX	 Latitude: 25-54N Longitude: 97-25W
+Station 4 letter ID: KBTV	Station Name: BURLINGTON INTERNATIONAL	State: VT	 Latitude: 44-28N Longitude: 73-09W
+Station 4 letter ID: KBUF	Station Name: GREATER BUFFALO INTERNATIONAL  AIRPORT 	State: NY	 Latitude: 42-56N Longitude: 078-44W
+Station 4 letter ID: KBUR	Station Name: BURBANK-GLENDALE-PASADENA	State: CA	 Latitude: 34-12N Longitude: 118-22W
+Station 4 letter ID: KBVE	Station Name: Boothville	State: LA	 Latitude: 29-20N Longitude: 089-24W
+Station 4 letter ID: KBWI	Station Name: BALTIMORE-WASHINGTON INTERNATIONAL 	State: MD	 Latitude: 39-10N Longitude: 076-41W
+Station 4 letter ID: KBYS	Station Name: Fort Irwin/Barstow, Bicycle Lake Army Airfield	State: CA	 Latitude: 35-17N Longitude: 116-37W
+Station 4 letter ID: KCAE	Station Name: COLUMBIA METROPOLITAN AIRPORT 	State: SC	 Latitude: 33-57N Longitude: 081-07W
+Station 4 letter ID: KCAG	Station Name: CRAIG MOFFAT AIRPORT	State: CO	 Latitude: 40-30N Longitude: 107-31W
+Station 4 letter ID: KCAK	Station Name: AKRON-CANTON REGIONAL AIRPORT 	State: OH	 Latitude: 40-55N Longitude: 081-27W
+Station 4 letter ID: KCAO	Station Name: CLAYTON MUNICIPAL AIRPARK	State: NM	 Latitude: 36-27N Longitude: 103-09W
+Station 4 letter ID: KCAR	Station Name: CARIBOU MUNICIPAL AIRPORT	State: ME	 Latitude: 46-52N Longitude: 68-01W
+Station 4 letter ID: KCEF	Station Name: Chicopee Falls / Westover Air Force Base	State: MA	 Latitude: 42-12N Longitude: 072-32W
+Station 4 letter ID: KCHA	Station Name: LOVELL FIELD	State: TN	 Latitude: 35-02N Longitude: 085-12W
+Station 4 letter ID: KCHH	Station Name: Chatham	State: MA	 Latitude: 41-40N Longitude: 069-58W
+Station 4 letter ID: KCHS	Station Name: CHARLESTON INT'L AIRPORT	State: SC	 Latitude: 32-54N Longitude: 080-02W
+Station 4 letter ID: KCKL	Station Name: Centreville	State: AL	 Latitude: 32-54N Longitude: 087-15W
+Station 4 letter ID: KCLE	Station Name: CLEVELAND-HOPKINS INTERNATIONAL 	State: OH	 Latitude: 41-24N Longitude: 081-51W
+Station 4 letter ID: KCLT	Station Name: CHARLOTTE/DOUGLAS INTERNATIONAL 	State: NC	 Latitude: 35-13N Longitude: 80-57W
+Station 4 letter ID: KCMH	Station Name: PORT COLUMBUS INTERNATIONAL  AIRPORT	State: OH	 Latitude: 40-00N Longitude: 82-53W
+Station 4 letter ID: KCMX	Station Name: HANCOCK HOUGHTON CTY. MEMO	State: MI	 Latitude: 47-10N Longitude: 088-29W
+Station 4 letter ID: KCNK	Station Name: Concordia, Blosser Municipal Airport	State: KS	 Latitude: 39-33-05N Longitude: 097-39-02W
+Station 4 letter ID: KCOD	Station Name: Cody	State: WY	 Latitude: 44-31N Longitude: 109-01W
+Station 4 letter ID: KCOF	Station Name: Cocoa / Patrick Air Force Base	State: FL	 Latitude: 28-14N Longitude: 080-36W
+Station 4 letter ID: KCON	Station Name: Concord, Concord Municipal Airport	State: NH	 Latitude: 43-11-43N Longitude: 071-30-04W
+Station 4 letter ID: KCOS	Station Name: COLORADO SPRINGS MUNI	State: CO	 Latitude: 38-49N Longitude: 104-43W
+Station 4 letter ID: KCOU	Station Name: COLUMBIA REGIONAL AIRPORT	State: MO	 Latitude: 38-49N Longitude: 092-13W
+Station 4 letter ID: KCPR	Station Name: NATRONA COUNTY INTERNATIONAL  AIRPORT 	State: WY	 Latitude: 42-54N Longitude: 106-28W
+Station 4 letter ID: KCRP	Station Name: CORPUS CHRISTI INTERNATIONAL 	State: TX	 Latitude: 27-46N Longitude: 97-31W
+Station 4 letter ID: KCRW	Station Name: YEAGER AIRPORT	State: WV	 Latitude: 38-22N Longitude: 081-36W
+Station 4 letter ID: KCTY	Station Name: CROSS CITY AIRPORT	State: FL	 Latitude: 29-38N Longitude: 083-06W
+Station 4 letter ID: KCVG	Station Name: CINCINNATI/NORTHERN KY INTERNATIONAL 	State: KY	 Latitude: 39-03N Longitude: 084-40W
+Station 4 letter ID: KCYS	Station Name: CHEYENNE AIRPORT	State: WY	 Latitude: 41-09N Longitude: 104-48W
+Station 4 letter ID: KD45	Station Name: Warroad	State: MN	 Latitude: 48-56N Longitude: 095-21W
+Station 4 letter ID: KDAY	Station Name: COX DAYTON INTERNATIONAL	State: OH	 Latitude: 39-54N Longitude: 084-13W
+Station 4 letter ID: KDBQ	Station Name: DUBUQUE REGIONAL AIRPORT	State: IA	 Latitude: 42-24N Longitude: 90-42W
+Station 4 letter ID: KDCA	Station Name: WASHINGTON NATIONAL AIRPORT 	State: VA	 Latitude: 38-51N Longitude: 077-02W
+Station 4 letter ID: KDDC	Station Name: DODGE CITY REGIONAL AIRPORT	State: KS	 Latitude: 37-46N Longitude: 99-58W
+Station 4 letter ID: KDEN	Station Name: DENVER INTERNATIONAL AIRPORT	State: CO	 Latitude: 39-52N Longitude: 104-40W
+Station 4 letter ID: KDFW	Station Name: DALLAS/FT. WORTH INTERNATIONAL  AIRPORT 	State: TX	 Latitude: 32-54N Longitude: 097-02W
+Station 4 letter ID: KDGW	Station Name: DOUGLAS CONVERSE COUNTY	State: WY	 Latitude: 42-48N Longitude: 105-23W
+Station 4 letter ID: KDLH	Station Name: Duluth, Duluth International Airport	State: MN	 Latitude: 46-50-34N Longitude: 092-13-34W
+Station 4 letter ID: KDNR	Station Name: Denver / Stapleton International, Co.	State: CO	 Latitude: 39-47N Longitude: 104-52W
+Station 4 letter ID: KDPG	Station Name: Dugway Proving Grounds	State: UT	 Latitude: 40-10N Longitude: 112-56W
+Station 4 letter ID: KDRA	Station Name: DESERT ROCK AIRPORT	State: NV	 Latitude: 36-38N Longitude: 116-02W
+Station 4 letter ID: KDRT	Station Name: DEL RIO INTERNATIONAL  AIRPORT	State: TX	 Latitude: 29-22N Longitude: 100-55W
+Station 4 letter ID: KDSM	Station Name: DES MOINES INTERNATIONAL	State: IA	 Latitude: 41-32N Longitude: 93-40W
+Station 4 letter ID: KDTW	Station Name: DETROIT METROPOLITAN	State: MI	 Latitude: 42-14N Longitude: 83-20W
+Station 4 letter ID: KE28	Station Name: Northrup Landing Strip	State: NM	 Latitude: 33-54N Longitude: 106-24W
+Station 4 letter ID: KEDW	Station Name: Edwards Air Force Base	State: CA	 Latitude: 34-55N Longitude: 117-54W
+Station 4 letter ID: KEKA	Station Name: Eureka	State: CA	 Latitude: 40-48N Longitude: 124-10W
+Station 4 letter ID: KEKN	Station Name: JENNINGS RANDOLPH FIELD	State: WV	 Latitude: 38-53N Longitude: 079-51W
+Station 4 letter ID: KELP	Station Name: EL PASO INTERNATIONAL AIRPORT 	State: TX	 Latitude: 31-49N Longitude: 106-23W
+Station 4 letter ID: KELY	Station Name: ELY AIRPORT (YELLAND FIELD)	State: NV	 Latitude: 39-18N Longitude: 114-51W
+Station 4 letter ID: KENV	Station Name: Wendover / Air Force Auxillary Field	State: UT	 Latitude: 40-44N Longitude: 114-02W
+Station 4 letter ID: KEPO	Station Name: Eastport	State: ME	 Latitude: 44-55N Longitude: 067-00W
+Station 4 letter ID: KEPZ	Station Name: Santa Teresa	State: NM	 Latitude: 31-52N Longitude: 106-42W
+Station 4 letter ID: KERI	Station Name: ERIE INTERNATIONAL AIRPORT	State: PA	 Latitude: 42-05N Longitude: 080-11W
+Station 4 letter ID: KESC	Station Name: Escanaba	State: MI	 Latitude: 45-45N Longitude: 087-02W
+Station 4 letter ID: KEUG	Station Name: MAHLON SWEET FIELD	State: OR	 Latitude: 44-08N Longitude: 123-13W
+Station 4 letter ID: KEVV	Station Name: EVANSVILLE REGIONAL	State: IN	 Latitude: 38-02N Longitude: 087-32W
+Station 4 letter ID: KEWR	Station Name: NEWARK INTERNATIONAL  AIRPORT	State: NJ	 Latitude: 40-41N Longitude: 74-10W
+Station 4 letter ID: KEYW	Station Name: KEY WEST INTERNATIONAL AIRPORT 	State: FL	 Latitude: 24-33N Longitude: 81-46W
+Station 4 letter ID: KF10	Station Name: Henryetta Municipal	State: OK	 Latitude: 35-24N Longitude: 096-01W
+Station 4 letter ID: KF30	Station Name: Sulphur Municipal	State: OK	 Latitude: 34-31N Longitude: 096-59W
+Station 4 letter ID: KFAR	Station Name: HECTOR INTERNATIONAL AIRPORT 	State: ND	 Latitude: 46-56N Longitude: 096-49W
+Station 4 letter ID: KFAT	Station Name: FRESNO AIR TERMINAL	State: CA	 Latitude: 36-47N Longitude: 119-43W
+Station 4 letter ID: KFBG	Station Name: Fort Bragg / Simmons Army Airfield	State: NC	 Latitude: 35-08N Longitude: 078-56W
+Station 4 letter ID: KFCA	Station Name: Kalispell, Glacier Park International Airport	State: MT	 Latitude: 48-18-15N Longitude: 114-15-49W
+Station 4 letter ID: KFCS	Station Name: Fort Carson	State: CO	 Latitude: 38-42N Longitude: 104-46W
+Station 4 letter ID: KFFO	Station Name: Dayton / Wright-Patterson Air Force Base	State: OH	 Latitude: 39-50N Longitude: 084-03W
+Station 4 letter ID: KFHU	Station Name: Fort Huachuca, Libby AAF Ft Huachuca	State: AZ	 Latitude: 46-98N Longitude: 110-20W
+Station 4 letter ID: KFMH	Station Name: Otis Air National Guard Base	State: MA	 Latitude: 41-39N Longitude: 070-31W
+Station 4 letter ID: KFNT	Station Name: FLINT BISHOP INTERNATIONAL  AIRPORT	State: MI	 Latitude: 42-58N Longitude: 83-45W
+Station 4 letter ID: KFOD	Station Name: Fort Dodge	State: IA	 Latitude: 42-33N Longitude: 094-11W
+Station 4 letter ID: KFRI	Station Name: Fort Riley, Marshall AAF Ft Riley	State: KS	 Latitude: 39-03-20N Longitude: 096-45-51W
+Station 4 letter ID: KFSD	Station Name: SIOUX FALLS FOSS FIELD	State: SD	 Latitude: 43-35N Longitude: 096-45W
+Station 4 letter ID: KFSI	Station Name: Fort Sill	State: OK	 Latitude: 34-36N Longitude: 098-24W
+Station 4 letter ID: KFSM	Station Name: FORT SMITH REGIONAL AIRPORT	State: AR	 Latitude: 35-20N Longitude: 94-22W
+Station 4 letter ID: KFTK	Station Name: Fort Knox	State: KY	 Latitude: 37-54N Longitude: 085-58W
+Station 4 letter ID: KFWA	Station Name: FORT WAYNE INTERNATIONAL	State: IN	 Latitude: 41-00N Longitude: 85-12W
+Station 4 letter ID: KFWD	Station Name: Fort Worth	State: TX	 Latitude: 32-50N Longitude: 097-18W
+Station 4 letter ID: KGBN	Station Name: Gila Bend U. S. Army Airfield	State: AZ	 Latitude: 32-26N Longitude: 112-41W
+Station 4 letter ID: KGCC	Station Name: GILLETTE-CAMPBELL CTY AIRPORT 	State: WY	 Latitude: 44-20N Longitude: 105-33W
+Station 4 letter ID: KGDP	Station Name: GUADALUPE PASS	State: TX	 Latitude: 31-50N Longitude: 104-49W
+Station 4 letter ID: KGEG	Station Name: SPOKANE INTERNATIONAL AIRPORT 	State: WA	 Latitude: 47-37N Longitude: 117-32W
+Station 4 letter ID: KGGG	Station Name: LONGVIEW GREGG COUNTY AIRPORT 	State: TX	 Latitude: 32-23N Longitude: 094-43W
+Station 4 letter ID: KGGW	Station Name: GLASGOW INTERNATIONAL AIRPORT 	State: MT	 Latitude: 48-13N Longitude: 106-37W
+Station 4 letter ID: KGJT	Station Name: GRAND JUNCTION WALKER FIELD	State: CO	 Latitude: 39-08N Longitude: 108-32W
+Station 4 letter ID: KGLD	Station Name: GOODLAND RENNER FIELD	State: KS	 Latitude: 39-22N Longitude: 101-42W
+Station 4 letter ID: KGLS	Station Name: SCHOLES FIELD	State: TX	 Latitude: 29-16N Longitude: 094-52W
+Station 4 letter ID: KGPI	Station Name: GLACIER PARK INTERNATIONAL  AIRPORT	State: MT	 Latitude: 48-18N Longitude: 114-16W
+Station 4 letter ID: KGRB	Station Name: AUSTIN STRAUBEL INTERNATIONAL  AIRPORT 	State: WI	 Latitude: 44-29N Longitude: 088-08W
+Station 4 letter ID: KGRF	Station Name: Fort Lewis / Gray U. S. Army Airfield	State: WA	 Latitude: 47-07N Longitude: 122-33W
+Station 4 letter ID: KGRI	Station Name: CENTRAL NEBRASKA REGIONAL	State: NE	 Latitude: 40-58N Longitude: 98-19W
+Station 4 letter ID: KGRR	Station Name: GERALD R. FORD INTERNATIONAL	State: MI	 Latitude: 42-53N Longitude: 085-31W
+Station 4 letter ID: KGSO	Station Name: PIEDMONT TRIAD INTERNATIONAL  AIRPORT 	State: NC	 Latitude: 36-06N Longitude: 079-57W
+Station 4 letter ID: KGSP	Station Name: GREER GREENVILLE SPARTBURG	State: SC	 Latitude: 34-53N Longitude: 82-13W
+Station 4 letter ID: KGTB	Station Name: Fort Drum / Wheeler-Sack U. S. Army Airfield	State: NY	 Latitude: 44-03N Longitude: 075-44W
+Station 4 letter ID: KGTF	Station Name: GREAT FALLS INTERNATIONAL	State: MT	 Latitude: 47-28N Longitude: 111-23W
+Station 4 letter ID: KH92	Station Name: Hominy Municipal	State: OK	 Latitude: 36-26N Longitude: 096-23W
+Station 4 letter ID: KHAT	Station Name: Cape Hatteras	State: NC	 Latitude: 35-16N Longitude: 075-33W
+Station 4 letter ID: KHLN	Station Name: HELENA REGIONAL AIRPORT	State: MT	 Latitude: 46-36N Longitude: 111-58W
+Station 4 letter ID: KHLR	Station Name: Fort Hood, Hood AAF Ft Hood	State: TX	 Latitude: 31-08N Longitude: 097-42W
+Station 4 letter ID: KHMN	Station Name: Holloman Air Force Base	State: NM	 Latitude: 32-51N Longitude: 106-06W
+Station 4 letter ID: KHMS	Station Name: Hanford	State: WA	 Latitude: 46-34N Longitude: 119-36W
+Station 4 letter ID: KHON	Station Name: HURON REGIONAL AIRPORT	State: SD	 Latitude: 44-23N Longitude: 098-14W
+Station 4 letter ID: KHOP	Station Name: Fort Campbell U. S. Army Airfield	State: KY	 Latitude: 36-40N Longitude: 087-30W
+Station 4 letter ID: KHRT	Station Name: Hurlburt Field	State: FL	 Latitude: 30-25N Longitude: 086-41W
+Station 4 letter ID: KHSV	Station Name: HUNTSVILLE INTERNATIONAL  JONES FIELD	State: AL	 Latitude: 34-39N Longitude: 086-47W
+Station 4 letter ID: KHTL	Station Name: ROSCOMMON COUNTY AIRPORT	State: MI	 Latitude: 44-21N Longitude: 084-40W
+Station 4 letter ID: KHTS	Station Name: TRI-STATE AIRPORT	State: WV	 Latitude: 38-22N Longitude: 082-33W
+Station 4 letter ID: KHVR	Station Name: HAVRE CITY-COUNTY AIRPORT	State: MT	 Latitude: 48-33N Longitude: 109-46W
+Station 4 letter ID: KIAD	Station Name: DULLES INTERNATIONAL AIRPORT	State: VA	 Latitude: 38-56N Longitude: 077-27W
+Station 4 letter ID: KIAH	Station Name: HOUSTON INTERCONTINENTAL	State: TX	 Latitude: 30-00N Longitude: 095-22W
+Station 4 letter ID: KICT	Station Name: WICHITA MID-CONTINENT AIRPORT 	State: KS	 Latitude: 37-39N Longitude: 97-26W
+Station 4 letter ID: KIGM	Station Name: KINGMAN AIRPORT	State: AZ	 Latitude: 35-15N Longitude: 113-56W
+Station 4 letter ID: KIND	Station Name: INDIANAPOLIS INTERNATIONAL  AIRPORT 	State: IN	 Latitude: 39-43N Longitude: 86-17W
+Station 4 letter ID: KINL	Station Name: FALLS INTERNATIONAL AIRPORT 	State: MN	 Latitude: 48-34N Longitude: 093-24W
+Station 4 letter ID: KINS	Station Name: Indian Springs, Indian Springs Auxiliary AFLD Nellis AFB	State: NV	 Latitude: 36-35N Longitude: 115-40W
+Station 4 letter ID: KINW	Station Name: WINSLOW MUNICIPAL AIRPORT	State: AZ	 Latitude: 35-02N Longitude: 110-43W
+Station 4 letter ID: KIPT	Station Name: WILLIAMSPORT-LYCOMING COUNTY	State: PA	 Latitude: 41-15N Longitude: 076-55W
+Station 4 letter ID: KISN	Station Name: SLOULIN FIELD INTERNATIONAL  AIRPORT	State: ND	 Latitude: 48-11N Longitude: 103-39W
+Station 4 letter ID: KJAN	Station Name: Jackson, Jackson International Airport	State: MS	 Latitude: 32-19-11N Longitude: 090-04-39W
+Station 4 letter ID: KJAX	Station Name: JACKSONVILLE INTERNATIONAL	State: FL	 Latitude: 30-30N Longitude: 81-42W
+Station 4 letter ID: KJCT	Station Name: KIMBLE COUNTY AIRPORT	State: TX	 Latitude: 30-31N Longitude: 099-46W
+Station 4 letter ID: KJFK	Station Name: KENNEDY INTERNATIONAL AIRPORT 	State: NY	 Latitude: 40-38N Longitude: 073-46W
+Station 4 letter ID: KLAN	Station Name: CAPITAL CITY AIRPORT	State: MI	 Latitude: 42-47N Longitude: 084-35W
+Station 4 letter ID: KLAS	Station Name: MCCARRAN INTERNATIONAL AIRPORT 	State: NV	 Latitude: 36-07N Longitude: 115-16W
+Station 4 letter ID: KLAX	Station Name: LOS ANGELES INTERNTL AIRPORT	State: CA	 Latitude: 33-56N Longitude: 118-23W
+Station 4 letter ID: KLBB	Station Name: LUBBOCK INTERNATIONAL AIRPORT 	State: TX	 Latitude: 33-40N Longitude: 101-49W
+Station 4 letter ID: KLBF	Station Name: NORTH PLATTE REGIONAL AIRPORT 	State: NE	 Latitude: 41-07N Longitude: 100-40W
+Station 4 letter ID: KLCH	Station Name: LAKE CHARLES REGIONAL AIRPORT 	State: LA	 Latitude: 30-12N Longitude: 093-23W
+Station 4 letter ID: KLEX	Station Name: LEXINGTON BLUE GRASS AIRPORT	State: KY	 Latitude: 38-02N Longitude: 084-36W
+Station 4 letter ID: KLFI	Station Name: Langley Air Force Base	State: VA	 Latitude: 37-05N Longitude: 076-21W
+Station 4 letter ID: KLGA	Station Name: NEW YORK LA GUARDIA AIRPORT 	State: NY	 Latitude: 40-47N Longitude: 73-53W
+Station 4 letter ID: KLGB	Station Name: LONG BEACH AIRPORT	State: CA	 Latitude: 33-49N Longitude: 118-09W
+Station 4 letter ID: KLHW	Station Name: Ft. Stewart	State: GA	 Latitude: 31-53N Longitude: 081-34W
+Station 4 letter ID: KLIX	Station Name: Slidell	State: LA	 Latitude: 30-20N Longitude: 089-49W
+Station 4 letter ID: KLND	Station Name: LANDER HUNT FIELD	State: WY	 Latitude: 42-49N Longitude: 108-44W
+Station 4 letter ID: KLNK	Station Name: LINCOLN MUNICIPAL AIRPORT	State: NE	 Latitude: 40-50N Longitude: 96-46W
+Station 4 letter ID: KLRD	Station Name: Laredo, Laredo International Airport	State: TX	 Latitude: 27-32-37N Longitude: 099-27-41W
+Station 4 letter ID: KLSE	Station Name: LA CROSSE MUNICIPAL AIRPORT 	State: WI	 Latitude: 43-53N Longitude: 091-15W
+Station 4 letter ID: KLSF	Station Name: Fort Benning	State: GA	 Latitude: 32-20N Longitude: 084-50W
+Station 4 letter ID: KLTS	Station Name: Altus Air Force Base	State: OK	 Latitude: 34-39N Longitude: 099-16W
+Station 4 letter ID: KLWS	Station Name: LEWISTON NEZ PERCE CO AIRPORT 	State: ID	 Latitude: 46-22N Longitude: 117-01W
+Station 4 letter ID: KLYH	Station Name: LYNCHBURG REGIONAL AIRPORT	State: VA	 Latitude: 37-19N Longitude: 079-12W
+Station 4 letter ID: KLZK	Station Name: North Little Rock, North Little Rock Airport	State: AR	 Latitude: 34-50N Longitude: 092-15W
+Station 4 letter ID: KMAF	Station Name: MIDLAND INTERNATIONAL AIRPORT 	State: TX	 Latitude: 31-56N Longitude: 102-12W
+Station 4 letter ID: KMCF	Station Name: Macdill Air Force Base, Fl.	State: FL	 Latitude: 27-51N Longitude: 082-30W
+Station 4 letter ID: KMCI	Station Name: KANSAS CITY INTERNATIONAL  AIRPORT	State: MO	 Latitude: 39-18N Longitude: 94-44W
+Station 4 letter ID: KMCN	Station Name: MIDDLE GEORGIA REGIONAL AIRPORT 	State: GA	 Latitude: 32-41N Longitude: 83-39W
+Station 4 letter ID: KMCO	Station Name: ORLANDO INTERNATIONAL AIRPORT 	State: FL	 Latitude: 28-25N Longitude: 81-20W
+Station 4 letter ID: KMDW	Station Name: CHICAGO MIDWAY AIRPORT	State: IL	 Latitude: 41-47N Longitude: 087-45W
+Station 4 letter ID: KMEI	Station Name: MERIDIAN KEY FIELD	State: MS	 Latitude: 32-20N Longitude: 088-45W
+Station 4 letter ID: KMEM	Station Name: MEMPHIS INTERNATIONAL AIRPORT 	State: TN	 Latitude: 35-02N Longitude: 089-59W
+Station 4 letter ID: KMER	Station Name: Merced / Castle Air Force Base	State: CA	 Latitude: 37-22N Longitude: 120-34W
+Station 4 letter ID: KMFR	Station Name: ROGUE VALLEY INTERNATIONAL  AIRPORT	State: OR	 Latitude: 42-23N Longitude: 122-53W
+Station 4 letter ID: KMGE	Station Name: Marietta / Dobbins Air Force Base	State: GA	 Latitude: 33-55N Longitude: 084-31W
+Station 4 letter ID: KMGM	Station Name: MONTGOMERY DANNELLY FIELD	State: AL	 Latitude: 32-18N Longitude: 86-24W
+Station 4 letter ID: KMHX	Station Name: Newport	State: NC	 Latitude: 34-47N Longitude: 076-53W
+Station 4 letter ID: KMIA	Station Name: MIAMI INTERNATIONAL AIRPORT 	State: FL	 Latitude: 25-47N Longitude: 080-19W
+Station 4 letter ID: KMKE	Station Name: GEN MITCHELL INTERNATIONAL  AIRPORT	State: WI	 Latitude: 42-57N Longitude: 87-54W
+Station 4 letter ID: KMKG	Station Name: MUSKEGON COUNTY AIRPORT	State: MI	 Latitude: 43-10N Longitude: 086-14W
+Station 4 letter ID: KMLB	Station Name: MELBOURNE INTERNATIONAL	State: FL	 Latitude: 28-06N Longitude: 080-39W
+Station 4 letter ID: KMLI	Station Name: MOLINE QUAD-CITY AIRPORT	State: IL	 Latitude: 41-27N Longitude: 90-31W
+Station 4 letter ID: KMLS	Station Name: MILES CITY WILEY FIELD	State: MT	 Latitude: 46-26N Longitude: 105-53W
+Station 4 letter ID: KMMO	Station Name: Marseilles Island	State: IL	 Latitude: 41-22N Longitude: 088-41W
+Station 4 letter ID: KMOB	Station Name: MOBILE REGIONAL AIRPORT	State: AL	 Latitude: 30-41N Longitude: 88-14W
+Station 4 letter ID: KMQT	Station Name: Marquette	State: MI	 Latitude: 46-32N Longitude: 087-33W
+Station 4 letter ID: KMRF	Station Name: Marfa	State: TX	 Latitude: 30-22N Longitude: 104-01W
+Station 4 letter ID: KMSN	Station Name: MADISON DANE COUNTY RGNL	State: WI	 Latitude: 43-08N Longitude: 89-21W
+Station 4 letter ID: KMSO	Station Name: MISSOULA INTERNATIONAL AIRPORT 	State: MT	 Latitude: 46-55N Longitude: 114-06W
+Station 4 letter ID: KMSP	Station Name: MINNEAPOLIS-ST PAUL INTERNATIONAL 	State: MN	 Latitude: 44-52N Longitude: 93-13W
+Station 4 letter ID: KMSY	Station Name: NEW ORLEANS INTERNATIONAL  AIRPORT	State: LA	 Latitude: 30-00N Longitude: 90-15W
+Station 4 letter ID: KMWN	Station Name: Mount Washington	State: NH	 Latitude: 44-16N Longitude: 071-18W
+Station 4 letter ID: KMWS	Station Name: Mount Wilson	State: CA	 Latitude: 34-14N Longitude: 118-04W
+Station 4 letter ID: KMYR	Station Name: Myrtle Beach Air Force Base	State: SC	 Latitude: 33-41N Longitude: 078-56W
+Station 4 letter ID: KN78	Station Name: Barnegat Coast Guard Station	State: NJ	 Latitude: 39-46N Longitude: 074-06W
+Station 4 letter ID: KNEL	Station Name: Lakehurst Naval Air Station	State: NJ	 Latitude: 40-02N Longitude: 074-19W
+Station 4 letter ID: KNGZ	Station Name: Alameda Naval Air Station	State: CA	 Latitude: 37-47N Longitude: 122-19W
+Station 4 letter ID: KNHK	Station Name: NAS PATUXENT RIVER MD	State: MD	 Latitude: 38-18N Longitude: 76-24W
+Station 4 letter ID: KNHZ	Station Name: BRUNSWICK NAVAL AIR STN	State: ME	 Latitude: 43-54N Longitude: 69-56W
+Station 4 letter ID: KNID	Station Name: NAWS CHINA LAKE	State: CA	 Latitude: 35-41N Longitude: 117-42W
+Station 4 letter ID: KNJK	Station Name: El Centro, Naval Air Facility	State: CA	 Latitude: 32-49-30N Longitude: 115-39-38W
+Station 4 letter ID: KNKT	Station Name: Cherry Point, Marine Corps Air Station	State: NC	 Latitude: 34-53-52N Longitude: 076-52-51W
+Station 4 letter ID: KNKX	Station Name: MCAS MIRAMAR	State: CA	 Latitude: 32-52N Longitude: 117-09W
+Station 4 letter ID: KNLC	Station Name: LEMOORE NAVAL AIR STATION	State: CA	 Latitude: 36-20N Longitude: 119-57W
+Station 4 letter ID: KNOW	Station Name: Port Angeles Coast Guard Air Station	State: WA	 Latitude: 48-08N Longitude: 123-24W
+Station 4 letter ID: KNSI	Station Name: SAN NICOLAS ISLAND	State: CA	 Latitude: 33-14N Longitude: 119-28W
+Station 4 letter ID: KNTD	Station Name: NAWCWPNS POINT MUGU, CA	State: CA	 Latitude: 34-07N Longitude: 119-07W
+Station 4 letter ID: KNUQ	Station Name: MOFFETT FIELD	State: CA	 Latitude: 37-26N Longitude: 122-03W
+Station 4 letter ID: KO64	Station Name: Fort Bragg	State: CA	 Latitude: 39-24N Longitude: 123-49W
+Station 4 letter ID: KOAK	Station Name: METRO OAKLAND INTERNATIONAL  AIRPORT 	State: CA	 Latitude: 37-43N Longitude: 122-14W
+Station 4 letter ID: KOAX	Station Name: Valley	State: NE	 Latitude: 41-19N Longitude: 096-22W
+Station 4 letter ID: KOFF	Station Name: Omaha / Offutt Air Force Base	State: NE	 Latitude: 41-07N Longitude: 095-54W
+Station 4 letter ID: KOFK	Station Name: KARL STEFAN MEMORIAL AIRPORT	State: NE	 Latitude: 41-59N Longitude: 097-26W
+Station 4 letter ID: KOGD	Station Name: OGDEN-HINCKLEY AIRPORT	State: UT	 Latitude: 41-12N Longitude: 112-01W
+Station 4 letter ID: KOKC	Station Name: WILL ROGERS WORLD AIRPORT	State: OK	 Latitude: 35-23N Longitude: 97-36W
+Station 4 letter ID: KOLM	Station Name: OLYMPIA AIRPORT	State: WA	 Latitude: 46-58N Longitude: 122-54W
+Station 4 letter ID: KOMA	Station Name: OMAHA EPPLEY AIRFIELD	State: NE	 Latitude: 41-18N Longitude: 095-54W
+Station 4 letter ID: KONM	Station Name: Socorro Municipal	State: NM	 Latitude: 34-01N Longitude: 106-54W
+Station 4 letter ID: KORD	Station Name: CHICAGO O'HARE INTERNATIONAL	State: IL	 Latitude: 41-59N Longitude: 087-55W
+Station 4 letter ID: KORF	Station Name: NORFOLK INTERNATIONAL AIRPORT 	State: VA	 Latitude: 36-54N Longitude: 076-12W
+Station 4 letter ID: KOUN	Station Name: Norman / Max Westheimer	State: OK	 Latitude: 35-13N Longitude: 097-27W
+Station 4 letter ID: KP07	Station Name: Sanderson	State: TX	 Latitude: 30-10N Longitude: 102-25W
+Station 4 letter ID: KP11	Station Name: Devils Lake	State: ND	 Latitude: 48-06N Longitude: 098-52W
+Station 4 letter ID: KP24	Station Name: Roseglen	State: ND	 Latitude: 47-45N Longitude: 101-50W
+Station 4 letter ID: KP28	Station Name: MEDICINE LODGE	State: KS	 Latitude: 37-17N Longitude: 098-33W
+Station 4 letter ID: KP35	Station Name: Spickard	State: MO	 Latitude: 40-15N Longitude: 093-43W
+Station 4 letter ID: KP38	Station Name: Caliente	State: NV	 Latitude: 37-36-44N Longitude: 114-31-35W
+Station 4 letter ID: KP39	Station Name: Pequot Lake	State: MN	 Latitude: 46-36N Longitude: 094-19W
+Station 4 letter ID: KPAH	Station Name: BARKLEY REGIONAL AIRPORT	State: KY	 Latitude: 37-03N Longitude: 088-46W
+Station 4 letter ID: KPAM	Station Name: Tyndall Air Force Base	State: FL	 Latitude: 30-04N Longitude: 085-35W
+Station 4 letter ID: KPBI	Station Name: PALM BEACH INTERNATIONAL	State: FL	 Latitude: 26-41N Longitude: 80-06W
+Station 4 letter ID: KPDT	Station Name: PENDLETON MUNICIPAL AIRPORT	State: OR	 Latitude: 45-70N Longitude: 118-83W
+Station 4 letter ID: KPDX	Station Name: PORTLAND INTERNATIONAL  AIRPORT	State: OR	 Latitude: 45-35N Longitude: 122-36W
+Station 4 letter ID: KPGA	Station Name: PAGE MUNICIPAL AIRPORT	State: AZ	 Latitude: 36-56N Longitude: 111-27W
+Station 4 letter ID: KPHL	Station Name: PHILADELPHIA INTERNATIONAL  AIRPT	State: PA	 Latitude: 39-52N Longitude: 075-14W
+Station 4 letter ID: KPHX	Station Name: Phoenix, Phoenix Sky Harbor International Airport	State: AZ	 Latitude: 33-26-03N Longitude: 112-03-04W
+Station 4 letter ID: KPIA	Station Name: GREATER PEORIA REGIONAL AIRPORT 	State: IL	 Latitude: 40-40N Longitude: 89-41W
+Station 4 letter ID: KPIH	Station Name: POCATELLO REGIONAL AIRPORT	State: ID	 Latitude: 42-55N Longitude: 112-36W
+Station 4 letter ID: KPIT	Station Name: GREATER PITTSBURGH INTERNATIONAL 	State: PA	 Latitude: 40-29N Longitude: 80-14W
+Station 4 letter ID: KPKF	Station Name: Park Falls	State: WI	 Latitude: 45-56N Longitude: 090-27W
+Station 4 letter ID: KPMD	Station Name: PALMDALE PROD FLIGHT PLANT	State: CA	 Latitude: 34-38N Longitude: 118-05W
+Station 4 letter ID: KPOB	Station Name: Pope Air Force Base	State: NC	 Latitude: 35-10N Longitude: 079-02W
+Station 4 letter ID: KPOE	Station Name: Fort Polk, Polk AAF Ft Polk	State: LA	 Latitude: 31-03N Longitude: 093-11-38W
+Station 4 letter ID: KPQI	Station Name: Presque Isle	State: ME	 Latitude: 46-41N Longitude: 068-03W
+Station 4 letter ID: KPTT	Station Name: Pratt Municipal	State: KS	 Latitude: 37-42N Longitude: 098-45W
+Station 4 letter ID: KPUB	Station Name: PUEBLO MEMORIAL AIRPORT	State: CO	 Latitude: 38-17N Longitude: 104-30W
+Station 4 letter ID: KPUC	Station Name: PRICE CARBON COUNTY AIRPORT	State: UT	 Latitude: 39-37N Longitude: 110-45W
+Station 4 letter ID: KPVD	Station Name: PROVIDENCE GREEN STATE AIRPORT 	State: RI	 Latitude: 41-44N Longitude: 071-26W
+Station 4 letter ID: KPWM	Station Name: PORTLAND INTERNATIONAL  JETPORT	State: ME	 Latitude: 43-39N Longitude: 70-18W
+Station 4 letter ID: KRAP	Station Name: RAPID CITY REGIONAL AIRPORT 	State: SD	 Latitude: 44-03N Longitude: 103-03W
+Station 4 letter ID: KRBL	Station Name: RED BLUFF MUNICIPAL AIRPORT	State: CA	 Latitude: 40-09N Longitude: 122-15W
+Station 4 letter ID: KRDD	Station Name: REDDING MUNICIPAL AIRPORT	State: CA	 Latitude: 40-30N Longitude: 122-17W
+Station 4 letter ID: KRDU	Station Name: RALEIGH-DURHAM INTERNATIONAL  AIRPORT	State: NC	 Latitude: 35-54N Longitude: 078-46W
+Station 4 letter ID: KRFD	Station Name: GREATER ROCKFORD AIRPORT	State: IL	 Latitude: 42-12N Longitude: 89-06W
+Station 4 letter ID: KRIC	Station Name: RICHMOND INTERNATIONAL  AIRPORT	State: VA	 Latitude: 37-31N Longitude: 077-19W
+Station 4 letter ID: KRIV	Station Name: Riverside / March Air Force Base	State: CA	 Latitude: 33-54N Longitude: 117-15W
+Station 4 letter ID: KRIW	Station Name: RIVERTON REGIONAL AIRPORT	State: WY	 Latitude: 43-04N Longitude: 108-27W
+Station 4 letter ID: KRKS	Station Name: ROCK SPRINGS-SWEETWATER CO	State: WY	 Latitude: 41-36N Longitude: 109-03W
+Station 4 letter ID: KRMG	Station Name: ROME R. B. RUSSELL AIRPORT	State: GA	 Latitude: 34-21N Longitude: 085-10W
+Station 4 letter ID: KRNO	Station Name: RENO/TAHOE INTERNATIONAL  AIRPORT	State: NV	 Latitude: 39-29N Longitude: 119-46W
+Station 4 letter ID: KROA	Station Name: ROANOKE REGIONAL AIRPORT	State: VA	 Latitude: 37-19N Longitude: 079-58W
+Station 4 letter ID: KROC	Station Name: GREATER ROCHESTER INTERNATIONAL 	State: NY	 Latitude: 43-07N Longitude: 077-41W
+Station 4 letter ID: KROW	Station Name: ROSWELL INDUSTRIAL AIR CENTR	State: NM	 Latitude: 33-18N Longitude: 104-32W
+Station 4 letter ID: KRQE	Station Name: WINDOW ROCK AIRPORT	State: AZ	 Latitude: 35-39N Longitude: 109-04W
+Station 4 letter ID: KRST	Station Name: ROCHESTER INTERNATIONAL AIRPORT 	State: MN	 Latitude: 43-54N Longitude: 092-30W
+Station 4 letter ID: KRUE	Station Name: RUSSELVILLE MUNICIPAL AIRPORT 	State: AR	 Latitude: 35-15N Longitude: 93-06W
+Station 4 letter ID: KRUM	Station Name: Rumford	State: ME	 Latitude: 44-32N Longitude: 070-32W
+Station 4 letter ID: KSAC	Station Name: SACRAMENTO EXECUTIVE AIRPORT 	State: CA	 Latitude: 38-30N Longitude: 121-30W
+Station 4 letter ID: KSAN	Station Name: SAN DIEGO INTERNATIONAL \LINDBERGH FLD	State: CA	 Latitude: 32-44N Longitude: 117-11W
+Station 4 letter ID: KSAT	Station Name: SAN ANTONIO INTERNATIONAL  AIRPORT 	State: TX	 Latitude: 29-32N Longitude: 098-28W
+Station 4 letter ID: KSAV	Station Name: SAVANNAH INTERNATIONAL AIRPORT 	State: GA	 Latitude: 32-07N Longitude: 81-12W
+Station 4 letter ID: KSBN	Station Name: SOUTH BEND REGIONAL AIRPORT	State: IN	 Latitude: 41-42N Longitude: 086-19W
+Station 4 letter ID: KSCK	Station Name: STOCKTON METROPOLITAN AIRPORT 	State: CA	 Latitude: 37-54N Longitude: 121-14W
+Station 4 letter ID: KSDB	Station Name: SANDBERG	State: CA	 Latitude: 34-45N Longitude: 118-43W
+Station 4 letter ID: KSDF	Station Name: STANDIFORD FIELD	State: KY	 Latitude: 38-11N Longitude: 085-44W
+Station 4 letter ID: KSEA	Station Name: SEATTLE-TACOMA INTERNATIONAL  AIRPORT 	State: WA	 Latitude: 47-27N Longitude: 122-19W
+Station 4 letter ID: KSEP	Station Name: Stephenville, Clark Field Municipal Airport	State: TX	 Latitude: 32-13N Longitude: 098-11W
+Station 4 letter ID: KSFD	Station Name: Winner, Bob Wiley Field Airport	State: SD	 Latitude: 43-23-26N Longitude: 099-50-33W
+Station 4 letter ID: KSFO	Station Name: SAN FRANCISCO INTERNATIONAL  AIRPORT 	State: CA	 Latitude: 37-37N Longitude: 122-22W
+Station 4 letter ID: KSGF	Station Name: SPRINGFIELD-BRANSON NATIONAL	State: MO	 Latitude: 37-14N Longitude: 93-23W
+Station 4 letter ID: KSHR	Station Name: SHERIDAN COUNTY AIRPORT	State: WY	 Latitude: 44-46N Longitude: 106-58W
+Station 4 letter ID: KSHV	Station Name: SHREVEPORT REGIONAL AIRPORT	State: LA	 Latitude: 32-27N Longitude: 93-50W
+Station 4 letter ID: KSJT	Station Name: MATHIS FIELD	State: TX	 Latitude: 31-21N Longitude: 100-30W
+Station 4 letter ID: KSLC	Station Name: SALT LAKE CITY INTERNATIONAL  AIRPORT 	State: UT	 Latitude: 40-47N Longitude: 111-58W
+Station 4 letter ID: KSLE	Station Name: SALEM MCNARY FIELD	State: OR	 Latitude: 44-54N Longitude: 123-00W
+Station 4 letter ID: KSLO	Station Name: Salem, Salem-Leckrone Airport	State: IL	 Latitude: 38-38-34N Longitude: 088-57-51W
+Station 4 letter ID: KSMX	Station Name: SANTA MARIA PUBLIC AIRPORT	State: CA	 Latitude: 34-54N Longitude: 120-28W
+Station 4 letter ID: KSNY	Station Name: SIDNEY MUNICIPAL AIRPORT	State: NE	 Latitude: 41-06N Longitude: 102-59W
+Station 4 letter ID: KSPS	Station Name: WICHITA FALLS SHEPPARD AFB	State: TX	 Latitude: 33-59N Longitude: 98-30W
+Station 4 letter ID: KSSC	Station Name: Shaw Air Force Base	State: SC	 Latitude: 33-58N Longitude: 080-29W
+Station 4 letter ID: KSTJ	Station Name: ROSECRANS MEMORIAL AIRPORT	State: MO	 Latitude: 39-46N Longitude: 94-55W
+Station 4 letter ID: KSTL	Station Name: LAMBERT-ST LOUIS INTERNATIONAL  AIRPORT 	State: MO	 Latitude: 38-45N Longitude: 90-22W
+Station 4 letter ID: KSUU	Station Name: Fairfield / Travis Air Force Base	State: CA	 Latitude: 38-16N Longitude: 121-57W
+Station 4 letter ID: KSUX	Station Name: SIOUX GATEWAY AIRPORT	State: IA	 Latitude: 42-23N Longitude: 96-23W
+Station 4 letter ID: KSVC	Station Name: Silver City / Grant	State: NM	 Latitude: 32-38N Longitude: 108-09W
+Station 4 letter ID: KSYR	Station Name: SYRACUSE HANCOCK INTERNATIONAL  AIRPORT 	State: NY	 Latitude: 43-07N Longitude: 76-06W
+Station 4 letter ID: KTBW	Station Name: Tampa Bay Area	State: FL	 Latitude: 27-42N Longitude: 082-24W
+Station 4 letter ID: KTCM	Station Name: Tacoma / McChord Air Force Base	State: WA	 Latitude: 47-09N Longitude: 122-29W
+Station 4 letter ID: KTCS	Station Name: TRUTH OR CONSEQUENCES MUNI	State: NM	 Latitude: 33-14N Longitude: 107-16W
+Station 4 letter ID: KTIK	Station Name: Tinker Air Force Base	State: OK	 Latitude: 35-25N Longitude: 097-23W
+Station 4 letter ID: KTLH	Station Name: TALLAHASSEE REGIONAL AIRPORT 	State: FL	 Latitude: 30-24N Longitude: 84-21W
+Station 4 letter ID: KTOL	Station Name: TOLEDO EXPRESS AIRPORT	State: OH	 Latitude: 41-35N Longitude: 083-48W
+Station 4 letter ID: KTOP	Station Name: TOPEKA BILLARD MUNICIPAL AIRPORT	State: KS	 Latitude: 39-04N Longitude: 95-38W
+Station 4 letter ID: KTPA	Station Name: TAMPA INTERNATIONAL AIRPORT 	State: FL	 Latitude: 27-58N Longitude: 082-32W
+Station 4 letter ID: KTUL	Station Name: TULSA INTERNATIONAL AIRPORT	State: OK	 Latitude: 36-12N Longitude: 95-53W
+Station 4 letter ID: KTUP	Station Name: TUPELO REGIONAL AIRPORT	State: MS	 Latitude: 34-16N Longitude: 88-46W
+Station 4 letter ID: KTUS	Station Name: TUCSON INTERNATIONAL AIRPORT 	State: AZ	 Latitude: 32-08N Longitude: 110-57W
+Station 4 letter ID: KTYS	Station Name: MCGHEE TYSON AIRPORT	State: TN	 Latitude: 35-49N Longitude: 083-59W
+Station 4 letter ID: KU67	Station Name: Roosevelt	State: UT	 Latitude: 40-18N Longitude: 109-59W
+Station 4 letter ID: KUIL	Station Name: QUILLAYUTE STATE AIRPORT	State: WA	 Latitude: 47-56N Longitude: 124-34W
+Station 4 letter ID: KVAD	Station Name: Moody Air Force Base	State: GA	 Latitude: 30-58N Longitude: 083-12W
+Station 4 letter ID: KVBG	Station Name: Lompoc, Vandenberg Air Force Base	State: CA	 Latitude: 34-43-46N Longitude: 120-34-36W
+Station 4 letter ID: KVCT	Station Name: VICTORIA REGIONAL AIRPORT	State: TX	 Latitude: 28-52N Longitude: 96-56W
+Station 4 letter ID: KVPS	Station Name: Valparaiso / Eglin Air Force Base	State: FL	 Latitude: 30-29N Longitude: 086-31W
+Station 4 letter ID: KVTN	Station Name: MILLER FIELD - VALENTINE, NE	State: NE	 Latitude: 42-52N Longitude: 100-33W
+Station 4 letter ID: KW30	Station Name: Ocean City	State: MD	 Latitude: 38-20N Longitude: 075-05W
+Station 4 letter ID: KWAL	Station Name: WALLOPS FLIGHT FAC AIRPORT 	State: VA	 Latitude: 37-56N Longitude: 075-28W
+Station 4 letter ID: KWMC	Station Name: WINNEMUCCA MUNICIPAL AIRPORT	State: NV	 Latitude: 40-54N Longitude: 117-48W
+Station 4 letter ID: KWWR	Station Name: Woodward, West Woodward Airport	State: OK	 Latitude: 36-26-12N Longitude: 099-31-16W
+Station 4 letter ID: KXMR	Station Name: Cocoa Beach, Cape Canaveral Air Force Station Skid Strip	State: FL	 Latitude: 28-28N Longitude: 080-34W
+Station 4 letter ID: KYKM	Station Name: YAKIMA AIR TERMINAL	State: WA	 Latitude: 46-34N Longitude: 120-32W
+Station 4 letter ID: KYNG	Station Name: YOUNGSTOWN-WARREN REG AIRPRT	State: OH	 Latitude: 41-15N Longitude: 080-40W
+Station 4 letter ID: KYUM	Station Name: Yuma / Yuma International	State: AZ	 Latitude: 32-39N Longitude: 114-36W
+Station 4 letter ID: PAAQ	Station Name: PALMER MUNICIPAL AIRPORT	State: AK	 Latitude: 61-36N Longitude: 149-06W
+Station 4 letter ID: PABA	Station Name: Barter Island, Barter Island LRRS Airport	State: AK	 Latitude: 70-08-02N Longitude: 143-34-37W
+Station 4 letter ID: PABE	Station Name: BETHEL AIRPORT	State: AK	 Latitude: 60-47N Longitude: 161-50W
+Station 4 letter ID: PABI	Station Name: ALLEN ARMY AIRFIELD	State: AK	 Latitude: 64-00N Longitude: 145-43W
+Station 4 letter ID: PABL	Station Name: Buckland, Buckland Airport	State: AK	 Latitude: 65-58-56N Longitude: 161-09-07W
+Station 4 letter ID: PABR	Station Name: POST ROGERS MEMORIAL AIRPORT	State: AK	 Latitude: 71-17N Longitude: 156-46W
+Station 4 letter ID: PABT	Station Name: BETTLES AIRPORT	State: AK	 Latitude: 66-54N Longitude: 151-31W
+Station 4 letter ID: PACD	Station Name: COLD BAY AIRPORT	State: AK	 Latitude: 55-13N Longitude: 162-44W
+Station 4 letter ID: PACP	Station Name: Cape Saint Elias	State: AK	 Latitude: 59-48N Longitude: 144-36W
+Station 4 letter ID: PACV	Station Name: MERLE K. SMITH AIRPORT	State: AK	 Latitude: 60-30N Longitude: 145-29W
+Station 4 letter ID: PACY	Station Name: Yakataga	State: AK	 Latitude: 60-05N Longitude: 142-30W
+Station 4 letter ID: PACZ	Station Name: Cape Romanzof, Cape Romanzof LRRS Airport	State: AK	 Latitude: 61-47N Longitude: 166-02W
+Station 4 letter ID: PADK	Station Name: Adak Island, Adak Airport	State: AK	 Latitude: 51-52-40N Longitude: 176-38-45W
+Station 4 letter ID: PADL	Station Name: Dillingham, Dillingham Airport	State: AK	 Latitude: 59-03N Longitude: 158-31W
+Station 4 letter ID: PADQ	Station Name: KODIAK AIRPORT	State: AK	 Latitude: 57-45N Longitude: 152-29W
+Station 4 letter ID: PADU	Station Name: Unalaska, Unalaska Airport	State: AK	 Latitude: 53-54N Longitude: 166-32W
+Station 4 letter ID: PAED	Station Name: Anchorage, Elmendorf Air Force Base	State: AK	 Latitude: 61-15-11N Longitude: 149-47-38W
+Station 4 letter ID: PAEH	Station Name: Cape Newenham, Cape Newenham LRRS Airport	State: AK	 Latitude: 58-39N Longitude: 162-04W
+Station 4 letter ID: PAEI	Station Name: Fairbanks, Eielson Air Force Base	State: AK	 Latitude: 64-39N Longitude: 147-06W
+Station 4 letter ID: PAEN	Station Name: KENAI MUNICIPAL AIRPORT	State: AK	 Latitude: 60-35N Longitude: 151-14W
+Station 4 letter ID: PAFA	Station Name: Fairbanks, Fairbanks International Airport	State: AK	 Latitude: 64-48-14N Longitude: 147-52-34W
+Station 4 letter ID: PAFM	Station Name: Ambler, Ambler Airport	State: AK	 Latitude: 67-06N Longitude: 157-51W
+Station 4 letter ID: PAFR	Station Name: Ft. Richardson / Bryant U. S. Army Heliport, Ak	State: AK	 Latitude: 61-16N Longitude: 149-39W
+Station 4 letter ID: PAGA	Station Name: Galena, Edward G. Pitka Sr. Airport	State: AK	 Latitude: 64-44N Longitude: 156-56W
+Station 4 letter ID: PAGK	Station Name: GULKANA AIRPORT	State: AK	 Latitude: 62-09N Longitude: 145-27W
+Station 4 letter ID: PAGM	Station Name: Gambell, Gambell Airport	State: AK	 Latitude: 63-46N Longitude: 171-44W
+Station 4 letter ID: PAGN	Station Name: Angoon	State: AK	 Latitude: 57-30N Longitude: 134-35W
+Station 4 letter ID: PAGS	Station Name: Gustavus, Gustavus Airport	State: AK	 Latitude: 58-25N Longitude: 135-42W
+Station 4 letter ID: PAGY	Station Name: SKAGWAY AIRPORT	State: AK	 Latitude: 59-28N Longitude: 135-19W
+Station 4 letter ID: PAHD	Station Name: Homer / Municipal	State: AK	 Latitude: 59-38N Longitude: 151-30W
+Station 4 letter ID: PAIL	Station Name: ILIAMNA AIRPORT	State: AK	 Latitude: 59-45N Longitude: 154-55W
+Station 4 letter ID: PAIM	Station Name: Utopia Creek, Indian Mountain LRRS Airport	State: AK	 Latitude: 66-59N Longitude: 153-42W
+Station 4 letter ID: PAJN	Station Name: JUNEAU INTERNATIONAL AIRPORT	State: AK	 Latitude: 58-21N Longitude: 134-34W
+Station 4 letter ID: PAKN	Station Name: KING SALMON AIRPORT	State: AK	 Latitude: 58-41N Longitude: 156-39W
+Station 4 letter ID: PAKO	Station Name: Nikolski	State: AK	 Latitude: 52-57N Longitude: 168-51W
+Station 4 letter ID: PAKT	Station Name: KETCHIKAN INTERNATIONAL AIRPORT 	State: AK	 Latitude: 55-21N Longitude: 131-43W
+Station 4 letter ID: PAKW	Station Name: Klawock, Klawock Airport	State: AK	 Latitude: 55-35N Longitude: 133-05W
+Station 4 letter ID: PALU	Station Name: Cape Lisburne, Cape Lisburne LRRS Airport	State: AK	 Latitude: 68-53N Longitude: 166-06W
+Station 4 letter ID: PAMC	Station Name: MCGRATH AIRPORT	State: AK	 Latitude: 62-57N Longitude: 155-36W
+Station 4 letter ID: PAMD	Station Name: Middleton Island, Middleton Island Airport	State: AK	 Latitude: 59-26N Longitude: 146-18W
+Station 4 letter ID: PAMH	Station Name: Minchumina, Minchumina Airport	State: AK	 Latitude: 63-52-50N Longitude: 152-18-02W
+Station 4 letter ID: PANC	Station Name: TED STEVENS ANCHORAGE INTERNATIONAL 	State: AK	 Latitude: 61-10N Longitude: 150-02W
+Station 4 letter ID: PANI	Station Name: Aniak, Aniak Airport	State: AK	 Latitude: 61-34-53N Longitude: 159-32-34W
+Station 4 letter ID: PANN	Station Name: NENANA MUNICIPAL AIRPORT	State: AK	 Latitude: 64-33N Longitude: 149-04W
+Station 4 letter ID: PANT	Station Name: ANNETTE ISLAND AIRPORT	State: AK	 Latitude: 55-02N Longitude: 131-35W
+Station 4 letter ID: PAOM	Station Name: NOME AIRPORT	State: AK	 Latitude: 64-31N Longitude: 165-26W
+Station 4 letter ID: PAOR	Station Name: NORTHWAY AIRPORT	State: AK	 Latitude: 62-58N Longitude: 141-56N
+Station 4 letter ID: PAOT	Station Name: WIEN MEMORIAL AIRPORT	State: AK	 Latitude: 66-53N Longitude: 162-36W
+Station 4 letter ID: PAPC	Station Name: Port Clarence, Port Clarence Coast Guard Station	State: AK	 Latitude: 65-15N Longitude: 166-51W
+Station 4 letter ID: PAPG	Station Name: Petersburg	State: AK	 Latitude: 56-49N Longitude: 132-58W
+Station 4 letter ID: PAPH	Station Name: Port Heiden, Port Heiden Airport	State: AK	 Latitude: 56-57N Longitude: 158-38W
+Station 4 letter ID: PAPT	Station Name: Puntilla	State: AK	 Latitude: 62-06N Longitude: 152-45W
+Station 4 letter ID: PAQT	Station Name: NUIQSUT AIRPORT	State: AK	 Latitude: 70-13N Longitude: 150-59W
+Station 4 letter ID: PASI	Station Name: SITKA AIRPORT	State: AK	 Latitude: 57-03N Longitude: 135-22W
+Station 4 letter ID: PASN	Station Name: ST PAUL ISLAND AIRPORT	State: AK	 Latitude: 57-10N Longitude: 170-13W
+Station 4 letter ID: PASV	Station Name: Sparrevohn Airways Facilities Sector	State: AK	 Latitude: 61-06N Longitude: 155-34W
+Station 4 letter ID: PASW	Station Name: Skwentna	State: AK	 Latitude: 61-58-38N Longitude: 151-13-02W
+Station 4 letter ID: PASY	Station Name: SHEMYA EARECKSON AS	State: AK	 Latitude: 52-43N Longitude: 174-07E
+Station 4 letter ID: PATA	Station Name: TANANA CALHOUN MEMORIAL AIRPORT 	State: AK	 Latitude: 65-10N Longitude: 152-06W
+Station 4 letter ID: PATC	Station Name: Tin City Airways Facilities Sector	State: AK	 Latitude: 65-34N Longitude: 167-55W
+Station 4 letter ID: PATK	Station Name: TALKEETNA AIRPORT	State: AK	 Latitude: 62-19N Longitude: 150-06W
+Station 4 letter ID: PAUM	Station Name: Umiat	State: AK	 Latitude: 69-22N Longitude: 152-08W
+Station 4 letter ID: PAUN	Station Name: Unalakleet	State: AK	 Latitude: 63-53N Longitude: 160-48W
+Station 4 letter ID: PAWD	Station Name: Seward	State: AK	 Latitude: 60-07N Longitude: 149-27W
+Station 4 letter ID: PAWG	Station Name: Wrangell	State: AK	 Latitude: 56-29N Longitude: 132-22W
+Station 4 letter ID: PAWI	Station Name: WAINWRIGHT AIRPORT	State: AK	 Latitude: 70-38N Longitude: 160-02W
+Station 4 letter ID: PAYA	Station Name: YAKUTAT AIRPORT	State: AK	 Latitude: 59-30N Longitude: 139-40W
+Station 4 letter ID: PFYU	Station Name: Fort Yukon, Fort Yukon Airport	State: AK	 Latitude: 66-34N Longitude: 145-16W
+Station 4 letter ID: PGAC	Station Name: Guam, Mariana Island	State: GU	 Latitude: 13-55N Longitude: 144-50E
+Station 4 letter ID: PGNT	Station Name: Sabanettan / Tinian Island	State: GU	 Latitude: 14-96N Longitude: 145-06E
+Station 4 letter ID: PGRO	Station Name: Rota Island, N. Mariana Is, Rota International Airport	State: GU	 Latitude: 14-11N Longitude: 145-15E
+Station 4 letter ID: PGSN	Station Name: Saipan Island, Saipan International Airport	State: Northern Mariana Islands	 Latitude: 15-07N Longitude: 145-44E
+Station 4 letter ID: PGUA	Station Name: Andersen, Mariana Is, Andersen Air Force Base	State: GU	 Latitude: 13-35N Longitude: 144-56E
+Station 4 letter ID: PGUM	Station Name: Agana, Guam International Airport	State: GU	 Latitude: 13-29N Longitude: 144-48E
+Station 4 letter ID: PGWT	Station Name: Tinian Island, N. Mariana Is, West Tinian Airport	State: GU	 Latitude: 14-59N Longitude: 145-37E
+Station 4 letter ID: PHBK	Station Name: PMRF BARKING SANDS	State: HI	 Latitude: 22-02N Longitude: 159-47W
+Station 4 letter ID: PHHI	Station Name: Wheeler Air Force Base / Oahu	State: HI	 Latitude: 21-29N Longitude: 158-02W
+Station 4 letter ID: PHJR	Station Name: KALAELOA AIRPORT	State: HI	 Latitude: 21-19N Longitude: 158-04W
+Station 4 letter ID: PHLI	Station Name: LIHUE AIRPORT	State: HI	 Latitude: 21-59N Longitude: 159-20W
+Station 4 letter ID: PHMK	Station Name: Kaunakakai, Molokai Airport	State: HI	 Latitude: 21-09N Longitude: 157-06W
+Station 4 letter ID: PHNG	Station Name: MCBH KANEOHE BAY HAWAII	State: HI	 Latitude: 21-27N Longitude: 157-45W
+Station 4 letter ID: PHNL	Station Name: HONOLULU INTERNATIONAL AIRPORT 	State: HI	 Latitude: 21-20N Longitude: 157-57W
+Station 4 letter ID: PHOG	Station Name: KAHULUI AIRPORT	State: HI	 Latitude: 20-54N Longitude: 156-26W
+Station 4 letter ID: PHTO	Station Name: HILO INTERNATIONAL AIRPORT	State: HI	 Latitude: 19-43N Longitude: 155-03W
+Station 4 letter ID: PHWH	Station Name: South Kona / Hawaii	State: HI	 Latitude: 19-06N Longitude: 155-45W
+Station 4 letter ID: PMDY	Station Name: Sand Island, Henderson Field Airport	State: HI	 Latitude: 28-13N Longitude: 177-22W
+Station 4 letter ID: POLI	Station Name: Oliktok Distant Early Warning 	State: AK	 Latitude: 70-30N Longitude: 149-53W
+Station 4 letter ID: PPIZ	Station Name: Point Lay, Point Lay LRRS Airport	State: AK	 Latitude: 69-43N Longitude: 163-00W
+Station 4 letter ID: PWAK	Station Name: Wake Island, Wake Island Army Airfield Airport	State: GU	 Latitude: 19-17N Longitude: 166-39E
+Station 4 letter ID: TJBQ	Station Name: Aquadilla, Rafael Hernandez Airport	State: PR	 Latitude: 18-30N Longitude: 067-08W
+Station 4 letter ID: TJNR	Station Name: ROOSEVELT ROADS PUERTO RICO	State: PR	 Latitude: 18-15N Longitude: 65-38W
+
